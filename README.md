@@ -13,7 +13,7 @@
 ![](https://github-readme-stats-ravirasadiya1s-projects.vercel.app/api/top-langs/?username=ravirasadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-readme-stats-snowy-phi-36.vercel.app/?username=ravirasadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ravirasadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
