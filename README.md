@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on React,Next,Vue, NodeJS, HTML/CSS,Web3 and BlockChain Development<br>👯 I’m looking to collaborate on any new ideas<br>🌱 I’m currently learning Rust<br>💬 Ask me about anything related to GSoC and open source contribution<br><br>⚡ Fun fact<br>'Typewriter' is the longest word you can type on a QWERTY keyboard, using only one of the rows on your keyboard.
+👋 Hi there! I'm a seasoned MERN Stack Engineer 🚀 with over 9 years of full-stack experience.<br>
+💡 My expertise lies in ReactJS, React Native, and Node.js, along with frameworks like Next.js and Nest.js.<br>
+💻 I'm proficient in Redux, GraphQL, and REST APIs, with hands-on experience in both SQL and NoSQL databases.<br>
+🌟 I'm a collaborative team player with strong communication skills, well-versed in cloud technologies like AWS/Azure,<br>
+and have a knack for CMS platforms such as Shopify and WordPress.<br>
+🔗 Additionally, I specialize in blockchain development, particularly in Solidity, Web3, DAOs, NFTs, and cryptocurrencies,<br>
+having launched ICO products and created smart contracts.<br>
+✨ Let's connect and explore how I can contribute to your projects! 📊<br><br>⚡ Fun fact<br>'Typewriter' is the longest word you can type on a QWERTY keyboard, using only one of the rows on your keyboard.
 
 
 ## 🌐 Socials:
