@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a seasoned MERN Stack Engineer 🚀 with over 9 years of full-stack experience.<br>
+👋 Hi there! I'm a seasoned MERN Stack Engineer 🚀 with over 10 years of full-stack experience.<br>
 💡 My expertise lies in ReactJS, React Native, and Node.js, along with frameworks like Next.js and Nest.js.<br>
 💻 I'm proficient in Redux, GraphQL, and REST APIs, with hands-on experience in both SQL and NoSQL databases.<br>
 🌟 I'm a collaborative team player with strong communication skills, well-versed in cloud technologies like AWS/Azure,<br>
